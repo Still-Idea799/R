@@ -1,11 +1,15 @@
 # R
 For the task assigned which consisted interfacing of LCD,GSM,LED,Relay according to the variable inputs from 2 AC(12v) sources and 2 Digital sources with MCU.
-/n The brief description and spectiofication of my projects is :
-/n Target MCU : STM32F401RE
-/n LCD Module : LCD 16x2 Shield I2C based
-/n GSM Module : SIM800L
-/n Development environment : STM32CubeIDE & STM32CubeMX
-/n Additional parts used are : Bridge Rectifier+Voltage divider for AC source
+ The brief description and spectiofication of my projects is :
+
+ Target MCU : STM32F401RE
+ LCD Module : LCD 16x2 Shield I2C based
+
+ GSM Module : SIM800L
+ 
+ Development environment : STM32CubeIDE & STM32CubeMX
+
+ Additional parts used are : Bridge Rectifier+Voltage divider for AC source
                             10Kohm Resistors for Digital source
                             ULN2003 IC for Relays
                             220ohm Resistors for LED
@@ -13,3 +17,4 @@ For the task assigned which consisted interfacing of LCD,GSM,LED,Relay according
                             Direct UART connect with GSM Module (SIM800L)
 
 Complete development was done using C language.
+            
