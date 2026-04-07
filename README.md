@@ -3,6 +3,7 @@ For the task assigned which consisted interfacing of LCD,GSM,LED,Relay according
  The brief description and spectiofication of my projects is :
 
  Target MCU : STM32F401RE
+ 
  LCD Module : LCD 16x2 Shield I2C based
 
  GSM Module : SIM800L
