@@ -6,7 +6,7 @@ For the task assigned which consisted interfacing of LCD,GSM,LED,Relay according
  
  LCD Module : LCD 16x2 Shield I2C based
 
- GSM Module : SIM800L
+ GSM Module : SIM800L/SIM900
  
  Development environment : STM32CubeIDE & STM32CubeMX
 
