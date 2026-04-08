@@ -123,9 +123,7 @@ int main(void)
 	        LED_Set(4, 0);
 	        Relay_Set(4, 0);
 	    }
-
 	    HAL_Delay(100);
-
   }
 }
 
